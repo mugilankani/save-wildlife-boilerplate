@@ -30,11 +30,22 @@ nav,
   background-color: black;
   height: 60px;
   /* Your code goes here */
+  display: flex;
+  /* text-align: center; */
+  justify-content: space-around;
+  /* flex-direction: row; */
 }
 
 .container {
   width: 500px;
   /* Your code goes here */
+  display: flex;
+  justify-content: space-around;
+  /* margin-left: 300px;
+  margin-right: 300px; */
+  align-items: center;
+  
+
 }
 
 .button {
